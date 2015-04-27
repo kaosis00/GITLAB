@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a = 1000;
+    int a = 1001;
     int b = 3000;
     int c = 0;
 
