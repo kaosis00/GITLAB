@@ -3,7 +3,7 @@
 int main()
 {
     int a = 100;
-    int b = 200;
+    int b = 300;
     int c = 0;
 
     printf("HELLOWORLD! \n");
