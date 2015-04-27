@@ -2,8 +2,8 @@
 
 int main()
 {
-    int a = 100;
-    int b = 300;
+    int a = 1000;
+    int b = 3000;
     int c = 0;
 
     printf("HELLOWORLD! \n");
