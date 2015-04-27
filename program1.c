@@ -2,8 +2,9 @@
 
 int main()
 {
-    int a = 1100;
+    int a = 1200;
     int b = 4000;
+
     int c = 0;
 
     printf("HELLOWORLD! \n");
